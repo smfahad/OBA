@@ -1,3 +1,6 @@
+ON-BOARD AUTOMOBILE (OBA)
+-------------------------
+
 Razak Faculty of Technology and Informatics Department proposes a software for vehicle driving which is controlled by “Safe-Drive” equipment. The CSCI identified for this system is called On-Board Automobile (OBA) computer software which is a control panel for the vehicle computer.
 
 Purpose of the system:
