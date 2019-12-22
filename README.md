@@ -12,3 +12,17 @@ Basically, DAS will perform three main components of functionalities as follow:
 Purpose of On-Board Automobile CSCI:
 ------------------------------------
 The software to be developed will improve the safety of vehicle driving, in particular over long trips on motorways. It will help to free the driver of certain routine actions and Inform the driver of certain problems detected in the driving of the vehicle. The software will also participate in the improvement of the vehicle’s operating safety.
+
+
+Development Instructions:
+-------------------------
+
+Developed on Microsoft Visual Studio C++ 2012
+
+Specific settings:
+
+1- Right click Project -> Properties
+2- Linker -> Input -> Ignore All Default Libraries -> No
+3- Linker -> Input -> Ignore Specific Default Libraries -> MSVCRTD
+4- Linker -> Command Line -> Additional Options -> add "/verbose" (without quotes - for troubleshooting)
+5- OK
